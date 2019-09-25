@@ -21,7 +21,7 @@ import {
 
 export default class Main extends Component {
   static navigationOptions = {
-    title: 'Usuários',
+    title: 'Usuários !',
   };
 
   static propTypes = {
